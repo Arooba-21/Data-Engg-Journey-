@@ -6,3 +6,6 @@
 ## Day 2 - June 19
 - **Learned:** Window Functions in SQL(RANK,ROW NUMBER,LAG,LEAD)
 - **Files:** `Window Functions.sql`
+
+## Day 2 - June 19
+- **Learned:** CTEs Queries
