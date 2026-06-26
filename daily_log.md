@@ -10,3 +10,10 @@
 
 ## Day 4-6 - June 21 to June 24
 - **Learned:** SubQueries, Joins, CaseWhen, Having, Datefunctions
+- **File:** `SQL_queries.sql`
+
+## Day 7- June 25
+- **Learned:** PYTHON- groupby, Aggregate, filtering, Merge
+
+## Day 8- June 26
+- **Learned:** PYTHON- Postgre connection, Data quality checks, date/time operations, string operations
