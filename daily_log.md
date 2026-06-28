@@ -17,3 +17,7 @@
 
 ## Day 8- June 26
 - **Learned:** PYTHON- Postgre connection, Data quality checks, date/time operations, string operations
+
+## Day 9-10 - June 27 to 28
+- After learning sql and python and moving towards next step i started one little pipeline project(Weather analysis)
+- CSV | Cleaning through Pandas | Load to Postgre | basic Insights with querys
