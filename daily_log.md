@@ -19,7 +19,7 @@
 - **Learned:** PYTHON- Postgre connection, Data quality checks, date/time operations, string operations
 
 ### Day 9-12 - June 27 to 30
-- After learning sql and python and before moving towards next step i started one little pipeline project(Weather analysis) ETL.
+- After learning sql and python and before moving towards next step i started one little pipeline project(Climate analysis) ETL.
 - CSV | Cleaning through Pandas | Load to Postgre | basic Insights with querys
 
 
